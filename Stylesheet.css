@@ -1,0 +1,441 @@
+.font{
+    font-family:Garamond,serif;
+}
+.header {
+    background-color: #0a122a;
+    padding: 40px;
+    text-align: center;
+}
+.subheader {
+    background-color: #83c9f4;
+    padding: 20px;
+    text-align: center;
+}
+.lings{
+    position: absolute;
+    font-size: 40px;
+    margin: -67 0 0 430px;  
+    color: #83c9f4;
+    text-align: center;
+}
+
+.home{
+    position: absolute;
+    font-size: 25px;
+    margin: 22 0px 0 300;   
+}
+
+.about{
+    position: absolute;
+    font-size: 25px;
+    margin: 22 0 0 500px; 
+}
+
+.service{
+    position: absolute;
+    font-size: 25px;
+    margin: 22 0 0 700px;
+}
+
+.offer{
+    position: absolute;
+    font-size: 25px;
+    margin: 22 0 0 900px;
+    
+}
+.contact{
+    position: absolute;
+    font-size: 25px;
+    margin: 22 0 0 1100px;
+    
+}
+#image2{
+    padding: 280px 90px 300px 90px;;
+    background: url('fleet.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.dot{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(merc.jpeg);
+    background-repeat: no-repeat;
+    background-size: 75% 75%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.dot1{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(ar.png);
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.dot2{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(jag.jpeg);
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.dot3{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(audi.jpeg);
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.dot4{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(bmw.jpeg);
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.dot5{
+    height: 150px;
+    width:  150px;
+    border-radius: 70%;
+    display: inline-block;
+    background-image: url(vw.jpeg);
+    background-repeat: no-repeat;
+    background-size: 60% 60%;
+    background-position: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: #0a122a;
+    color: black;
+}
+
+.copyright{
+    text-align: center;
+    color:#83c9f4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tac-title{
+    text-align: center;
+    font-family:Helvetica;
+;
+}
+.tac-heading{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tac-para{
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tac-back{
+    background-color: #c5c2c2;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    border-radius: 10%;
+}
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+         
+ input[type=text], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px #0a122a;
+            background-color: #ffffff;
+            opacity: 0.7;
+            border-radius: 8px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+          }
+
+          input[type=submit] {
+            background-color: #0a122a;
+            color: rgb(255, 255, 255);
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+          }
+          
+          input[type=submit]:hover {
+            background-color: #83c9f4;}
+
+.tandc{
+    text-align: center;
+    font: sans-serif;
+    color: #83c9f4;
+    padding: 20px;
+
+}
+
+/**/
+              
+              input[type=submit] {
+                background-color: #0a122a;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+              }
+              
+              input[type=submit]:hover {
+                background-color: #83c9f4;
+              }
+
+              input[type=text], select, textarea {
+                    width: 100%;
+                    opacity:0.7;
+                    padding: 12px;
+                    border: 1px solid #ccc;
+                    border-radius: 8px;
+                    box-sizing: border-box;
+                    margin-top: 6px;
+                    margin-bottom: 16px;
+                    resize: vertical;
+                  }
+                  
+                  input[type=submit] {
+                    background-color: #83c9f4;
+                    color: white;
+                    padding: 12px 20px;
+                    border: none;
+                    border-radius: 4px;
+                 cursor: pointer;
+                  }
+                  
+                  input[type=submit]:hover {
+                    background-color: #0a122a;
+                  }
+                  
+                  
+    .container {
+    margin-top: 50 ;
+    margin-left: 100;
+    margin-right: 100;
+    margin-bottom: 50;
+    color: #ffffff;
+    padding: 20px;
+    background-color:#0a122a;
+    font-weight: bold;
+    opacity:1;          
+         }
+
+         .contform{
+            text-align: center;
+            padding-left: 200px;
+            padding-right: 200px;
+            font-weight: bold;
+            font-size: 35px;
+            font-family: Arial, Helvetica, sans-serif;}
+
+         .ourcars{
+             text-align: center;
+             font-weight: bold;
+             font-family: Arial, Helvetica, sans-serifx;
+         }
+         /* About us */
+         .Ourstory{
+          text-align: center;
+          font-family:Helvetica;
+          text-decoration: underline
+          ;
+          }
+
+          .os-para{
+            text-align: center;
+            padding-left: 20px;
+            padding-right: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+
+          }
+
+          .About-Us{
+          padding: 50px;
+          background-color: #ccc;
+          margin-left: 400px;
+          margin-right: 400px;
+          margin-bottom: 100px;
+          border-radius: 25%;
+      }
+
+          .avatar {
+            margin: 20px 40px 20px 40px;
+            border-radius: 50%;
+            width:200px
+          }
+
+          .team{
+            display: block;
+            margin: auto;
+
+          }
+
+          /* page for services */
+.rental{
+  font-family: Arial, Helvetica, sans-serif;
+} 
+  .rental-step{
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    left: 5px;
+    top: 140px;
+    font-size: 20px;
+    font-style: bold;
+    background: #D9F0FF;
+    }
+
+     .steps{
+      position: absolute;
+      left: 10px;
+      top: 170px;
+      font-size: 15px;
+      
+     }
+
+  .class{
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    top: 150px;
+    font-size: 20px;
+  }
+
+  .rental-faqs{
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    left: 5px;
+    top: 695px;
+    font-size: 20px;
+    font-style: bold;
+    background: #D9F0FF;
+    }
+
+  .Q1{
+    position: absolute;
+    left: 10px;
+    top: 760px;
+    font-size: 15px;
+    font-style: bold;
+    background: #D9F0FF;
+  }
+
+  .Q2{
+    position: absolute;
+    left: 10px;
+    top: 800px;
+    font-size: 15px;
+    font-style: bold;
+    background: #D9F0FF;
+  }
+
+  .Q3{
+    position: absolute;
+    left: 10px;
+    top: 840px;
+    font-size: 15px;
+    font-style: bold;
+    background: #D9F0FF;
+  }
+
+  .Q4{
+    position: absolute;
+    left: 10px;
+    top: 880px;
+    font-size: 15px;
+    font-style: bold;
+    background: #D9F0FF;
+  }
+
+  .Q5{
+    position: absolute;
+    left: 10px;
+    top: 920px;
+    font-size: 15px;
+    font-style: bold;
+    background: #D9F0FF;
+  }
+
+  #footer-end{
+    position: absolute;
+    
+    bottom: 0;
+    width:100%;
+  }
